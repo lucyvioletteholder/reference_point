@@ -43,6 +43,7 @@ h3 {
 
 img {
   width: 50%;
+  image_outline: black;
 }
 .container {
   display: flex;
